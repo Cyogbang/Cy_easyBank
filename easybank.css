@@ -13,24 +13,24 @@
     width: 100%;
     height: auto;
     position: relative;
-    /* bottom: 10rem; */
+    bottom: 3rem;
 }
 
-#mobile-intro {
-    width: 100%;
-    height: auto;
+.mobile-intro {
+    background-image: url(./resources/images/bg-intro-mobile.svg);
+    background-size: cover;
 }
 
 .mobile-mockup {
     width: 100%;
     height: auto;
     position: relative;
-    bottom: 41rem;
+    bottom: 7rem;
 }
 
-.sec2-title {
+/* .sec2-title {
     width: 35rem;
-}
+} */
 
 #services {
     background-color: hsl(220, 16%, 96%);
